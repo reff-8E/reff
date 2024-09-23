@@ -1,0 +1,28 @@
+ody {
+    /*background-color: red;*/
+
+}
+
+
+div.partie{
+    border: 2px solid #000000;
+    margin: 3% 10%;
+    border-radius: 0px 0px 30px 0px;
+}
+
+div.partie h1{
+    background: linear-gradient(to right, #003366 0%, #ffffff 100%);
+    margin: 0px;
+    padding: 5px;
+    color: #ffffff;
+}
+
+
+#special {
+    background: linear-gradient(to right, #bfbfbf 0%, #ffffff 100%);
+}
+<style>
+    img {
+        border-radius: 50%;
+        }
+    </style>
