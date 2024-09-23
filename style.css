@@ -1,4 +1,4 @@
-ody {
+body {
     /*background-color: red;*/
 
 }
@@ -17,12 +17,23 @@ div.partie h1{
     color: #ffffff;
 }
 
-
-#special {
-    background: linear-gradient(to right, #bfbfbf 0%, #ffffff 100%);
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
-<style>
-    img {
-        border-radius: 50%;
-        }
-    </style>
+
+#digi {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 140px;
+  border-radius:500px;
+}
+
+
+a:hover {
+        color: red;
+}
+
